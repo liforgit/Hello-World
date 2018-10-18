@@ -1,5 +1,3 @@
-# Hello-World
-This is my first repository.
+Git is a version control system.
+Git is free software.
 
-
-Now I doing something changes for this branch.
